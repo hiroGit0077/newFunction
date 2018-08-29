@@ -1,0 +1,14 @@
+{
+  "name": "GitBackUP",
+  "description": "Project",
+  "main": "UkkeyKUji.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6815.30979",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
